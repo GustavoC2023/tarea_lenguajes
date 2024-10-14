@@ -63,4 +63,3 @@ int insFinalIt(LISTA *cab, char dato[]) {
     }
     return 0;
 }
- 
